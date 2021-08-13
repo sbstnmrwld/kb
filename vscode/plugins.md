@@ -1,4 +1,4 @@
-# vscode eextensions
+# vscode extensions
 
 - ms-azuretools.vscode-docker
 - ms-python.vscode-pylance
